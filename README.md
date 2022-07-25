@@ -1,4 +1,4 @@
-# Iris-Data-Analysis-Support-Vector-Machines-SVMs-
+# Analyzing-Iris-Data-Set-Using-Support-Vector-Machines-SVMs-
 In this project we will be analyzing the famous iris data set, using support vector classifier.
 
 We will be using the famous [Iris flower data set](http://en.wikipedia.org/wiki/Iris_flower_data_set). 
